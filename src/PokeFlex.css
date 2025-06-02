@@ -1,0 +1,16 @@
+.PokeFlex {
+    display: flex;
+   flex-direction: column;
+   flex-wrap: nowrap;
+   background-color: rgb(121, 31, 173);
+   width: 400px;
+   height: 400px;
+   overflow: auto;
+   justify-content: space-around;
+   align-items: center;
+}
+
+img {
+    width: 100px;
+    height: 80px;
+}
